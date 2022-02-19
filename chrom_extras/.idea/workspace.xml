@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4e9d8d-817f-41c2-bb66-5ecd914f4a93" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="department_search_box2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/department_search_box2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="528" column="9" lean-forward="false" selection-start-line="528" selection-start-column="9" selection-end-line="528" selection-end-column="9" />
+              <folding>
+                <element signature="n#SearchProcess2_Component#0;n#!!top" expanded="false" />
+                <marker date="1521550352176" expanded="true" signature="23573:24792" ph="..." />
+                <marker date="1521550352176" expanded="true" signature="24386:24410" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24424" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24436" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24446" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24462" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24471" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24386:24781" ph="{...}" />
+                <marker date="1521550352176" expanded="true" signature="24491:24496" ph="/*...*/" />
+                <marker date="1521550352176" expanded="true" signature="24588:24773" ph="{&quot;serviceUrl&quot;: &quot;/wp-admin/admin-ajax.php?action=CHfw_StaffFindAjax&quot;...}" />
+                <marker date="1521550352176" expanded="true" signature="24712:24762" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47400/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/email/order/items/order/default.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04632/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/marketplace/checkout/cart/item/default.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2754">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11729/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/sales/order/items/renderer/default.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="department_search_box2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visual-composer/elements/department_search_box2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CHfw_serach</find>
+      <find>CHfw_StaffFindAjax</find>
+      <find>find</find>
+      <find>row chfw-advanced-searchBorder</find>
+      <find>all</find>
+      <find>selec</find>
+      <find>chosen-select</find>
+      <find>departmans</find>
+      <find>CHfw_StaffProgramAndServices_Component2</find>
+      <find>Location</find>
+      <find>depart</find>
+      <find>gender</find>
+      <find>Departmen</find>
+      <find>row</find>
+      <find>.yt_main_inner .button.wk_add_method</find>
+      <find>background_color</find>
+      <find>a-width</find>
+      <find>data-width=</find>
+      <find>id</find>
+      <find>sales_email_order_items</find>
+      <find>col-md-2 col-sm-4 col-xs-4 col-ms-12</find>
+      <find>searchV2</find>
+      <find>.chfw-advanced-searchV2</find>
+      <find>labe</find>
+      <find>Id</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CHfw_serach2</replace>
+      <replace>col-md-2 col-sm-4 col-xs-5 col-ms-12</replace>
+      <replace>.chfw-advanced-searchV2</replace>
+      <replace>.chfw-advanced-searchV2.onSlide</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/visual-composer/elements/service-box2.php" />
+        <option value="$PROJECT_DIR$/visual-composer/shortcodes/service-box2.php" />
+        <option value="$PROJECT_DIR$/chrom_extras_file.php" />
+        <option value="$PROJECT_DIR$/visual-composer/shortcodes/department_search_box.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp56358/home/dogal/web/dogalavm.com/public_html/skin/frontend/base/default/mageticaret/override.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp56680/home/dogal/web/dogalavm.com/public_html/app/design/frontend/sm_market/default_green/layout/page.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp35845/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/email/order/items/order/default.phtml" />
+        <option value="$PROJECT_DIR$/visual-composer/elements/department_search_box2.php" />
+        <option value="$PROJECT_DIR$/visual-composer/shortcodes/department_search_box2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp11729/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/sales/order/items/renderer/default.phtml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp47400/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/email/order/items/order/default.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-458" />
+    <option name="y" value="214" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chrom_extras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrom_extras" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="chrom_extras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrom_extras" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="visual-composer" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="chrom_extras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrom_extras" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="visual-composer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="elements" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="chrom_extras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrom_extras" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="visual-composer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\plugins_dev\chrom_extras\visual-composer\shortcodes" />
+      <recent name="D:\xampp\htdocs\plugins_dev\chrom_extras\visual-composer\elements" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4e9d8d-817f-41c2-bb66-5ecd914f4a93" name="Default" comment="" />
+      <created>1521387075486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521387075486</updated>
+      <workItem from="1521387076754" duration="749000" />
+      <workItem from="1521387874429" duration="37831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38580000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25244498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/department_search_box2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#SearchProcess2_Component#0;n#!!top" expanded="false" />
+            <marker date="1521550352176" expanded="true" signature="23573:24792" ph="..." />
+            <marker date="1521550352176" expanded="true" signature="24386:24410" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24424" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24436" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24446" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24462" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24471" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24781" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24491:24496" ph="/*...*/" />
+            <marker date="1521550352176" expanded="true" signature="24588:24773" ph="{&quot;serviceUrl&quot;: &quot;/wp-admin/admin-ajax.php?action=CHfw_StaffFindAjax&quot;...}" />
+            <marker date="1521550352176" expanded="true" signature="24712:24762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/elements/department_search_box2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/service-box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/elements/service-box2.php" />
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/service-box2.php" />
+    <entry file="file://$PROJECT_DIR$/chrom_extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrom_extras_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="73" column="56" lean-forward="true" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/department_search_box_advanced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6936">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56680/home/dogal/web/dogalavm.com/public_html/app/design/frontend/sm_market/default_green/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="119" column="99" lean-forward="false" selection-start-line="119" selection-start-column="99" selection-end-line="119" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56358/home/dogal/web/dogalavm.com/public_html/skin/frontend/base/default/mageticaret/override.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="1362" column="0" lean-forward="true" selection-start-line="1362" selection-start-column="0" selection-end-line="1362" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/elements/department_search_box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp48872/home/dogal/web/dogalavm.com/public_html/app/locale/tr_TR/template/email/sales/order_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="89" column="70" lean-forward="true" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp35845/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/email/order/items/order/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/department_search_box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="397" column="49" lean-forward="true" selection-start-line="397" selection-start-column="49" selection-end-line="397" selection-end-column="49" />
+          <folding>
+            <marker date="1521390013253" expanded="true" signature="10964:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11003:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11029:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11065:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11126:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11191:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11238:12517" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11290:12488" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11343:11480" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11536:12453" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11704:12414" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="11791:12046" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="12119:12371" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="12170:12319" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="12552:13089" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="12609:12776" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="12833:13021" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13152:13882" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13210:13624" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13383:13585" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13689:13847" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13935:14635" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="13992:14153" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="14210:14598" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="14372:14559" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="14375:14467" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="14860:16913" ph="..." />
+            <marker date="1521390013253" expanded="true" signature="15793:16902" ph="{...}" />
+            <marker date="1521390013253" expanded="true" signature="16458:16615" ph="{...}" />
+            <marker date="1521390013253" expanded="true" signature="16709:16894" ph="{&quot;serviceUrl&quot;: &quot;/wp-admin/admin-ajax.php?action=CHfw_StaffFindAjax&quot;...}" />
+            <marker date="1521390013253" expanded="true" signature="16833:16883" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/elements/service-box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/elements/department_search_box2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual-composer/shortcodes/department_search_box2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="528" column="9" lean-forward="false" selection-start-line="528" selection-start-column="9" selection-end-line="528" selection-end-column="9" />
+          <folding>
+            <element signature="n#SearchProcess2_Component#0;n#!!top" expanded="false" />
+            <marker date="1521550352176" expanded="true" signature="23573:24792" ph="..." />
+            <marker date="1521550352176" expanded="true" signature="24386:24410" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24424" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24436" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24446" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24462" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24471" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24386:24781" ph="{...}" />
+            <marker date="1521550352176" expanded="true" signature="24491:24496" ph="/*...*/" />
+            <marker date="1521550352176" expanded="true" signature="24588:24773" ph="{&quot;serviceUrl&quot;: &quot;/wp-admin/admin-ajax.php?action=CHfw_StaffFindAjax&quot;...}" />
+            <marker date="1521550352176" expanded="true" signature="24712:24762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04632/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/marketplace/checkout/cart/item/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2754">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11729/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/sales/order/items/renderer/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47400/home/dogal/web/dogalavm.com/public_html/app/design/frontend/base/default/template/email/order/items/order/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
